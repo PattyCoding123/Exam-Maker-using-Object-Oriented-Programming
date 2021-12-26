@@ -1,0 +1,14 @@
+Question: How much feet are in a mile?
+Answer: [5200, 5300]
+
+Question: What is the rate of acceleration due to gravity on the moon (in m/s^2)?
+Answer: [1.5, 2]
+
+Question: What percentage of Earth is made of water?
+Answer: [70, 75]
+
+Question: What ph level is more basic?
+Answer: [8, 14]
+
+Question: What is the average minimum wage in the United States?
+Answer: [7, 12]
